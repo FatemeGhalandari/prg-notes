@@ -11,14 +11,10 @@
             "id": "44c1adf60fcde2ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -195,6 +191,7 @@
   },
   "active": "44c1adf60fcde2ee",
   "lastOpenFiles": [
+    "2024-11-27.md",
     "Untitled.md",
     "Untitled 3/Untitled 2.md",
     "Untitled 6.md",

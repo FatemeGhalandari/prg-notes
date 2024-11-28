@@ -1,10 +1,19 @@
 {
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "center-images",
+    "clutter-free-formatting",
+    "clutter-free-headings",
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "notation-colour-blocks",
+    "Notebook Backgrounds"
+  ],
   "baseFontSize": 20,
   "interfaceFontFamily": "Atkinson Hyperlegible",
   "textFontFamily": "Atkinson Hyperlegible",
   "baseFontSizeAction": true,
-  "cssTheme": "Things",
+  "cssTheme": "Vanilla AMOLED",
   "monospaceFontFamily": "Source Code Pro",
   "nativeMenus": false,
   "accentColor": "#d18ad6",
