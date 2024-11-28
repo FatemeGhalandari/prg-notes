@@ -1,0 +1,12 @@
+{
+  "enabledCssSnippets": [],
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "baseFontSizeAction": true,
+  "cssTheme": "Things",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false,
+  "accentColor": "#d18ad6",
+  "theme": "system"
+}
